@@ -64,7 +64,9 @@ p {
 }
 .content p {
   font-size: 14px;
-  opacity: ;
+}
+.text-muted {
+  color: #6c757d !important;
 }
 .content {
   margin: 30px;
